@@ -37,7 +37,7 @@ this.sprite = 'images/char-boy.png';
 
 }
 
-Player.prototype.update = function() {}
+Player.prototype.update = function()  {}
 // Now write your own player class
 // This class requires an update(), render() and
 // a handleInput() method.
